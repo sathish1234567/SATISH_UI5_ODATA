@@ -1,0 +1,2 @@
+Deploying Ui5 Application into Fiori Server.
+Right Click on Project Name -> Select Deploy Option -> Select ABAP Repository -> Take System Name ->Select New Application Radio Button-> Give BSP Application Name -> Save in Workbench TR and Package.
