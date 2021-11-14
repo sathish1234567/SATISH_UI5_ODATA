@@ -1,0 +1,20 @@
+We have to maintain below path in neo-app.json file inside our UI5 project.   
+   
+   {
+      "path": "/sap/opu/odata",
+      "target": {
+        "type": "destination",
+        "name": "SSDEV",     ***SSDEV-> SAP SYSTEM NAME
+        "entryPath": "/sap/opu/odata"
+      },
+      "description": "SSDEV"
+    },
+    {
+      "path": "/sap/bc/ui5_ui5",
+      "target": {
+        "type": "destination",
+        "name": "SSDEV",
+        "entryPath": "/sap/bc/ui5_ui5"
+      },
+      "description": "SSDEV"
+    }
