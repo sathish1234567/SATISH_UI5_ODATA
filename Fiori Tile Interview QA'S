@@ -16,3 +16,8 @@ ______________________________
 6. Controller Replacement : If any Extension points not avaialble, then we have to add new view and new controller.
 7. i18n Extension : i18n extension.
 
+
+Cache clearence in se38: https://inui.io/clear-cache-sapui5-sap-fiori-odata/
+/UI5/APP_INDEX_CALCULATE
+/UI5/UPDATE_CACHEBUSTER
+
