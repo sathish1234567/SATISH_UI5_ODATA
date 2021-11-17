@@ -22,3 +22,20 @@ Cache clearence in se38: https://inui.io/clear-cache-sapui5-sap-fiori-odata/
 /UI5/UPDATE_CACHEBUSTER
 
 UI5 APP UPLOAD/DELETE/DOWNLOAD : se38 : /UI5/UI5_REPOSITORY_LOAD
+
+
+MM-FIO-IM	MM	F1076	Stock
+PP	PP	Custom	COR2 - Resource change
+MM-FIO-IM			0
+MM-FIO-IM	MM	F3749	Inventory KPI Analysis
+MM-FIO-IM	MM	F3366	Inventory Analysis Overview
+MM-FIO-IM	MM	F2137	Slow or Non-Moving Materials
+MM-FIO-IM	MM	F1956	Inventory Turnover Analysis
+Decision Support Group	DSG	F2903	Commitments and Actuals Analyses
+Financial Accounts Receivable	FIAR	F3242	Accounts Receivable Overview
+Financial Credit Management	FICM	F2541	Analyze Credit Exposure
+Financial Accounts Receivable	FIAR	F2925	Cash Collection Tracker - Accounts Receivable
+Decision Support Group	DSG	F3082	Budget Analysis
+Financial Credit Management	FICM	F1751	Credit Limit Utilization (S/4HANA)
+Financial Accounts payable	FIAP	F1733	Aging Analysis (S/4HANA)
+
