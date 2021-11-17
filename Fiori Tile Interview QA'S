@@ -5,3 +5,14 @@ Fiori Designer Tool T-Code?
 How to create Catalog and Group? what is the catalog and group?
 SICF, /n/iwfnd/maint_service, PFCG, /n/ui2/semobj, /n/ui2/flp, /n/ui2/flpd_cust.
 how to activate Fiori standard app.
+
+FIORI STANDARD APP EXTENSIONS:
+______________________________
+1. OData Extension : Odata data level.
+2. View Modification --> Hide UI Elements/Unhide UI Elements by using Extensable Pane.
+3. View Extension
+4. Controller Extension : View and Controller exstension will done based fiori reference library.
+5. View Replacement
+6. Controller Replacement : If any Extension points not avaialble, then we have to add new view and new controller.
+7. i18n Extension : i18n extension.
+
